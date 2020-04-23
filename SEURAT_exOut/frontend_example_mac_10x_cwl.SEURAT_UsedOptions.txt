@@ -1,0 +1,24 @@
+Thu Apr 16 2020 14:53:37
+
+
+Options used:
+-i	input	/localhd/tmp/tmpdkjs0dw3/stg858348b8-4f5f-4d4b-a12c-1287168ca593/inputs
+-t	input_type	MTX
+-j	inputs_remove_barcodes	NA
+-b	normalize_and_scale_sample	2
+-r	resolution	1
+-o	outdir	N
+-p	prefix_outfiles	frontend_example_mac_10x_cwl
+-c	infile_colour_dim_red_plots	NA
+-g	list_genes	NA
+-d	pca_dimensions	10
+-f	apply_cell_filters	Y
+-m	percent_mito	0,0.2
+-q	percent_ribo	0,0.75
+-n	n_genes	50,8000
+-v	n_reads	1,80000
+-e	return_threshold	0.01
+-u	number_cores	AUTO
+-s	save_r_object	n
+-w	run_cwl	Y
+-a	max_global_variables	AUTO

@@ -1,0 +1,5 @@
+Step	Filter_min	Filter_max	Mean_before_filter	Median_before_filter	Mean_after_filter	Median_after_filter	Excluded_cells
+nFeature_RNA	50	8000	2248	2262	2248	2262	0
+nCount_RNA	1	80000	6573	5864	6573	5864	0
+mito.fraction	0	0.2	0	0	0	0	1
+ribo.fraction	0	0.75	0.154	0.153	0.154	0.153	0
